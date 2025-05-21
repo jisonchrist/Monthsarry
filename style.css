@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-image: url('images/bg.jpg');  /* ✅ Use your file name here */
+  background-image: url('bg.jpg');  /* ✅ Use your file name here */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
